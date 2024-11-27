@@ -1,7 +1,7 @@
 # 🔬 fMRI-Based Functional Connectivity Analysis for Neurodevelopmental Disorders
 
 <div align="center">
-  <img src="imgs/adhd_30_30.gif" alt="Visualization of important FC features" width="600">
+  <img src="imgs/adhd_30_5.gif" alt="Visualization of important FC features" width="600">
 </div>
 
 This repository houses the implementation and analysis pipeline for a research project focusing on the classification of neurodevelopmental disorders, including ADHD (Attention Deficit Hyperactivity Disorder) and ASD (Autism Spectrum Disorder), using functional connectivity (FC) features derived from fMRI data. 
